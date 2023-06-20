@@ -1,0 +1,6 @@
+C:\Users\abidi\Desktop\DERSLER\VektorelAkademiersler\.NET_C#\OOPKalitimOdevi\OOPKalitimOdevi\bin\Debug\OOPKalitimOdevi.dll
+C:\Users\abidi\Desktop\DERSLER\VektorelAkademiersler\.NET_C#\OOPKalitimOdevi\OOPKalitimOdevi\bin\Debug\OOPKalitimOdevi.pdb
+C:\Users\abidi\Desktop\DERSLER\VektorelAkademiersler\.NET_C#\OOPKalitimOdevi\OOPKalitimOdevi\obj\Debug\Personellib.csproj.AssemblyReference.cache
+C:\Users\abidi\Desktop\DERSLER\VektorelAkademiersler\.NET_C#\OOPKalitimOdevi\OOPKalitimOdevi\obj\Debug\Personellib.csproj.CoreCompileInputs.cache
+C:\Users\abidi\Desktop\DERSLER\VektorelAkademiersler\.NET_C#\OOPKalitimOdevi\OOPKalitimOdevi\obj\Debug\OOPKalitimOdevi.dll
+C:\Users\abidi\Desktop\DERSLER\VektorelAkademiersler\.NET_C#\OOPKalitimOdevi\OOPKalitimOdevi\obj\Debug\OOPKalitimOdevi.pdb
