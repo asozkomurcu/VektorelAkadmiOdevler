@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personellib", "OOPKalitimOdevi\Personellib.csproj", "{2227654C-60CF-4272-A652-B3EF48ABF24B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personel.App", "Personel.App\Personel.App.csproj", "{78EA0891-ADC7-49E6-9E1A-8BCA50322C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2227654C-60CF-4272-A652-B3EF48ABF24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2227654C-60CF-4272-A652-B3EF48ABF24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2227654C-60CF-4272-A652-B3EF48ABF24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2227654C-60CF-4272-A652-B3EF48ABF24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EA0891-ADC7-49E6-9E1A-8BCA50322C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EA0891-ADC7-49E6-9E1A-8BCA50322C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EA0891-ADC7-49E6-9E1A-8BCA50322C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EA0891-ADC7-49E6-9E1A-8BCA50322C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF58F12C-D1E5-4024-8338-A3C13CEAF16E}
+	EndGlobalSection
+EndGlobal

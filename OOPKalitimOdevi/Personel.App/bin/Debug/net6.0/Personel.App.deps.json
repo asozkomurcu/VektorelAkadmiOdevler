@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Personel.App/1.0.0": {
+        "dependencies": {
+          "Personellib": "1.0.0"
+        },
+        "runtime": {
+          "Personel.App.dll": {}
+        }
+      },
+      "Personellib/1.0.0": {
+        "runtime": {
+          "OOPKalitimOdevi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Personel.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Personellib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
